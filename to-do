@@ -1,0 +1,13 @@
+Load map
+Create new file object
+Pass it to gzip
+Gzip map
+Write metadata using underlying file object
+
+interface
+
+select map button
+a field for metadata
+Save map button
+Extract vxl button
+
